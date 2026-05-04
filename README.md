@@ -19,14 +19,14 @@ A simple and responsive Currency Converter web application built using **HTML, C
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
 - Exchange Rate API
 
 ---
 
 ## 🔗 Live Demo
 
-(Add your live link here if you deploy)
+(https://abhishek-akkal.github.io/Currency-Converter/)
 
 ---
 
