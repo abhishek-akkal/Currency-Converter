@@ -26,7 +26,7 @@ A simple and responsive Currency Converter web application built using **HTML, C
 
 ## 🔗 Live Demo
 
-(https://abhishek-akkal.github.io/Currency-Converter/)
+https://abhishek-akkal.github.io/Currency-Converter/
 
 ---
 
